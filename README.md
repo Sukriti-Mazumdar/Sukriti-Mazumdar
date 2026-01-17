@@ -1,5 +1,22 @@
 # 💫 About Me:
-🔭 Technical Focus  <br>- Developing responsive and scalable full-stack web applications using React, TypeScript, Node.js, and Express.js  <br>- Implementing SEO-friendly layouts, performance optimization, and reusable component architecture  <br><br>👯 Open to Collaboration  <br>- Full-stack web applications using React, Node.js, and RESTful APIs  <br>- Frontend and backend projects focused on scalability and real-world use cases  <br><br>🤝 Areas of Interest  <br>- Backend architecture, database optimization, and API security best practices  <br>- Designing maintainable and scalable system workflows  <br><br>🌱 Core Expertise  <br>- Backend development with Node.js and Express.js  <br>- Database design, performance optimization, and clean architecture principles  <br><br>
+
+🔭 **Technical Focus** <br>
+- Developing responsive and scalable full-stack web applications using React, TypeScript, Node.js, and Express.js <br>
+- Implementing SEO-friendly layouts, performance optimization, and reusable component architecture <br><br>
+
+👯 **Open to Collaboration** <br>
+- Full-stack web applications using React, Node.js, and RESTful APIs <br>
+- Frontend and backend projects focused on scalability and real-world use cases <br><br>
+
+🤝 **Areas of Interest** <br>
+- Backend architecture, database optimization, and API security best practices <br>
+- Designing maintainable and scalable system workflows <br><br>
+
+🌱 **Core Expertise** <br>
+- Full-stack web development using React, TypeScript, Node.js, and Express.js <br>
+- Designing scalable frontend architectures and robust backend services <br>
+- Database design, performance optimization, and clean architecture principles <br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukriti-mazumdar-872a15302)
